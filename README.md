@@ -5,7 +5,7 @@
 **Fullstack JavaScript Engineer · Based in Prishtina, Kosovo**
 
 - 🌍 Helping startups and companies build scalable apps
-- 💻 4+ years building in the JS ecosystem
+- 💻 5+ years building in the JS ecosystem
 - 🔧 React, Next.js, Node.js, NestJS, RedwoodJS, TypeScript
 - 🧠 Passionate about AI, performance, and clean architecture
 
