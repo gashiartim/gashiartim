@@ -1,5 +1,3 @@
-![Banner](./banner.png)
-
 # 👋 Hi, I'm Artim Gashi
 
 **Fullstack JavaScript Engineer · Based in Prishtina, Kosovo**
