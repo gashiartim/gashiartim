@@ -2,7 +2,7 @@
 
 **Fullstack JavaScript Engineer · Based in Prishtina, Kosovo**
 
-- 🚀 5+ years building scalable web apps
+- 🚀 6+ years building scalable web apps
 - 🧠 Obsessed with clean code, performance, and developer experience
 - 🏗️ Helping startups ship faster and better
 
